@@ -1,0 +1,5 @@
+# Routes
+# https://www.playframework.com/documentation/latest/ScalaRouting
+# ~~~~
+
+GET	/examples/timer		controllers.WebSocketCtrl.socket

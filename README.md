@@ -8,7 +8,7 @@ Scala Play server using WebSockets
 
 ## Running
 
-   sbt run
+   sbt compile run
 
    This starts the server on port 9000
    
